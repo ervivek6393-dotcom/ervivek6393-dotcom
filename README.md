@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm <a href="#">VIVEK YADAV </a></h1>
+<h3 align="center">💻 Student | 🤖 AI & ML Enthusiast | 🚀 Tech Explorer</h3>
 
-<!--
-**ervivek6393-dotcom/ervivek6393-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me  
+- 🌱 I’m currently learning *C, C++, and **Python*  
+- 🤖 Exploring the exciting world of *Artificial Intelligence* and *Machine Learning*  
+- 💡 I love solving problems and building creative tech solutions  
+- 🎯 Goal: To become an *AI Engineer* and contribute to open-source projects  
+- ⚡ Fun fact: I debug more than I code 😅  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧩 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ervivek6393-dotcom&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervivek6393-dotcom&theme=tokyonight" alt="GitHub streak" width="48%"/>
+</p>
+
+---
+
+### 🚀 Current Goals  
+- 🔹 Master Data Structures & Algorithms  
+- 🔹 Build AI/ML mini-projects  
+- 🔹 Contribute to open-source communities  
+- 🔹 Improve problem-solving skills  
+
+---
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-yadav-800b1b2a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ervivek6393@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ervivek6393-dotcom" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+⭐ *"The best way to predict the future is to create it."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ervivek6393-dotcom&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
