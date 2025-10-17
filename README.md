@@ -3,12 +3,13 @@
 
 ---
 
-### 🧠 About Me  
-- 🌱 I’m currently learning *C, C++, and **Python*  
-- 🤖 Exploring the exciting world of *Artificial Intelligence* and *Machine Learning*  
-- 💡 I love solving problems and building creative tech solutions  
-- 🎯 Goal: To become an *AI Engineer* and contribute to open-source projects  
-- ⚡ Fun fact: I debug more than I code 😅  
+## 🧠 About Me  
+
+- 🌱 Learning **C**, **C++**, and **Python** to build a strong foundation in programming  
+- 🤖 Exploring the world of **Artificial Intelligence** and **Machine Learning**  
+- 💡 Passionate about solving real-world problems through creative tech solutions  
+- 🎯 Aspiring to become an **AI Engineer** and contribute to open-source projects  
+- ⚡ Fun fact: I spend 90% of my time debugging, but that last 10% makes me feel like a genius 😎  
 
 ---
 ### 🧩 Tech Stack  
